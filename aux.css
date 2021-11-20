@@ -1,0 +1,7 @@
+:root{
+  --shadow: 0 0 10px rgba(102, 0, 146, 0.5);
+  --label-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.7);
+  --pads: 2rem;
+  --margin-for-icon: 0.5rem;
+  --padding-for-icon: 1.25rem;
+}
